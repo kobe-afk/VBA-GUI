@@ -71,22 +71,6 @@ No manual copying or pasting is required.
 
 ---
 
-## 🚧 Challenges & Design Considerations
-
-### Challenges
-- Ensuring the GUI remained intuitive for non-technical users  
-- Maintaining performance with larger datasets  
-- Avoiding hard-coded values in VBA  
-- Keeping logic modular and reusable  
-
-### Key Learnings
-- Automating simple workflows can have large productivity gains  
-- Clear UI design is crucial for internal tools  
-- VBA modularity improves maintainability  
-- Leveraging familiar tools (Excel) increases adoption  
-
----
-
 ## 🚀 Impact
 
 - Eliminated repetitive copy-paste work  
