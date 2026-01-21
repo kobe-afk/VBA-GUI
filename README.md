@@ -25,11 +25,10 @@ The VBA GUI was created to **automate this process end-to-end**, while keeping t
 
 ## 👷 Designed for Engineers
 
-The GUI was intentionally designed to:
+The GUI was designed to:
 - Run **directly inside Excel**
-- Require **no programming knowledge**
 - Use **simple dropdowns and buttons**
-- Avoid complex formulas or macros exposed to the user
+- Avoid exposing complex formulas or macros to the user
 
 Engineers only need to:
 1. Select the **process title**
